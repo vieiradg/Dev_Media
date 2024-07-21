@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, sans-serif;
+}
+
+div {
+    border-bottom: 1px solid #d5d5d5;
+    text-align: center;
+    margin: 15px auto 30px auto;
+    padding: 50px;
+}
+
+h1, h2, h3 {
+    margin: 20px 0px;
+}
+
+img {
+    width: 190px;
+}
+
+a {
+    border-radius: 25px;
+    padding: 10px 45px;
+    background-color: #49b970;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    display: inline-block; 
+    margin-bottom: 20px; 
+}
+
+p {
+    width: 930px;
+    margin: 20px auto 30px auto;
+    text-align: center;
+    line-height: 25px;
+}
+
+span {
+    font-weight: bold;
+}

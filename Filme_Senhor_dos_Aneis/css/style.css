@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgb(87, 2, 87);
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    padding-bottom: 40px;
+}
+
+h1 {
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(36, 0, 36);
+    margin-bottom: 50px;
+}
+
+h2 {
+    margin-bottom: 35px;
+}
+
+img{
+    width: 45%;
+    margin-bottom: 35px;
+    box-shadow: 15px 15px 15px 0px black;
+}
+
+p {
+    line-height: 25px;
+    margin-bottom: 25px;
+}
+
+span {
+    padding: 15px;
+    background-color: rgb(215, 105, 243);
+    font-weight: bold;
+}

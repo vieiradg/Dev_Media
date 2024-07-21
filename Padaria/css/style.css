@@ -1,0 +1,55 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    max-width: 900px;
+    margin: 0 auto; 
+    padding: 20px;
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0; 
+    border-bottom: 2px solid chocolate; 
+    padding-bottom: 30px; 
+}
+
+a {
+    margin: 0 20px; 
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: chocolate;
+}
+
+h1, h2, h3, h4 {
+    font-weight: bold;
+}
+
+#produtos {
+    background-color: chocolate;
+    color: white; 
+    padding: 20px; 
+    margin-top: 20px; /
+}
+
+p, ul {
+    line-height: 1.6; 
+}
+
+span {
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
