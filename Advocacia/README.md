@@ -24,6 +24,3 @@ O site foi desenvolvido para apresentar os serviços jurídicos do advogado **Fe
 - As imagens utilizadas estão na pasta `assets/`.
 - Os estilos são definidos no arquivo `css/style.css`.
 
-## 📲 Responsividade
-O site possui melhorias para adaptar-se melhor a diferentes telas, garantindo acessibilidade e boa experiência ao usuário.
-
