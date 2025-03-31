@@ -15,6 +15,3 @@ O projeto **Barbearia Stylus** é um site criado para apresentar os serviços de
 - **Home Page**: Apresentação da barbearia e seus valores.
 - **Serviços**: Descrição dos serviços oferecidos, com destaque para cortes masculinos e plano de benefícios.
 - **Contato**: Informações de contato da barbearia com um link direto para o WhatsApp, facilitando o atendimento ao cliente.
-
-## 📸 Estrutura do Projeto
-A estrutura do projeto é a seguinte:
