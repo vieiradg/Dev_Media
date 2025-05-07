@@ -2,6 +2,8 @@
 
 ![projeto](https://github.com/user-attachments/assets/a15842cd-ad96-4031-9738-89fc12f2f3b6)
 
+[Veja o Projeto](https://vieiradg.github.io/Dev_Media/Advocacia/)
+
 
 ## 📌 Sobre o Projeto
 O site foi desenvolvido para apresentar os serviços jurídicos do advogado **Fernando Junior**, destacando sua experiência e áreas de atuação.
@@ -21,7 +23,4 @@ O site foi desenvolvido para apresentar os serviços jurídicos do advogado **Fe
 ## 📷 Imagens e Estilos
 - As imagens utilizadas estão na pasta `assets/`.
 - Os estilos são definidos no arquivo `css/style.css`.
-
-## 📲 Responsividade
-O site possui melhorias para adaptar-se melhor a diferentes telas, garantindo acessibilidade e boa experiência ao usuário.
 
